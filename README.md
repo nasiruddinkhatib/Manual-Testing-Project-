@@ -1,2 +1,2 @@
 # Manual-Testing-Project-
-Manual Testing projects 
+Facebook Login Testing Manual (QA Project)
