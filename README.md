@@ -33,4 +33,4 @@ Clone the repository:
 git clone https://github.com/YourGitHubUsername/Facebook-Login-Testing.git
 Navigate to the project directory.
 Open the Test Cases Document to view detailed test cases.
-Check the Bug Report for logged defects and issues.
+Check the Bug Report for logged defects and issues. 
